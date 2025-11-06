@@ -1,2 +1,10 @@
-# tp2
-Présentation sur le travail de Domaine Multimédia
+Présentation sur mon profil par Francis Parent
+Pourquoi j’ai choisi le programme TIM : vos motivations, intérêts ou inspirations.
+##Mon profil multimédia : créatif, technique ou hybride (avec explication).
+##Mes forces : compétences ou qualités qui vous démarquent.
+##Mes faiblesses : points à améliorer ou défis à surmonter.
+##Mon domaine multimédia préféré : pourquoi ce domaine vous attire.
+##Mon domaine multimédia le moins préféré : ce qui vous rejoint moins et pourquoi.
+##Mon premier choix de carrière ou d’études universitaires : lien avec votre profil.
+##Mon deuxième choix de carrière ou d’études universitaires : autre voie possible.
+##Conclusion
