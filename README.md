@@ -1,5 +1,5 @@
-Présentation sur mon profil par Francis Parent
-Pourquoi j’ai choisi le programme TIM : vos motivations, intérêts ou inspirations.
+##Présentation sur mon profil par Francis Parent
+##Pourquoi j’ai choisi le programme TIM : vos motivations, intérêts ou inspirations.
 ##Mon profil multimédia : créatif, technique ou hybride (avec explication).
 ##Mes forces : compétences ou qualités qui vous démarquent.
 ##Mes faiblesses : points à améliorer ou défis à surmonter.
