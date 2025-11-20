@@ -4,16 +4,16 @@
 - Date du 20 novembre 2025
 - Présentation de mon profil et de mes aspirations
 ## Pourquoi j’ai choisi le programme TIM
-<img width="1212" height="590" alt="image" src="https://github.com/user-attachments/assets/2637f77e-2652-4f27-b01d-99da393b5531" />
+<img width="1374" height="590" alt="image" src="https://github.com/user-attachments/assets/e76cab15-a560-404a-9384-77a743cc1de7" />
 
 ## Mon profil multimédia
-<img width="1271" height="363" alt="image" src="https://github.com/user-attachments/assets/be8db1c8-3960-4809-a6f3-c93ea020c53d" />
+<img width="1271" height="363" alt="image" src="https://github.com/user-attachments/assets/78778746-e926-49b2-b2c7-32eb41511d10" />
 
 ## Mes forces
 <img width="825" height="427" alt="image" src="https://github.com/user-attachments/assets/b96d22a1-9292-43ed-ac6b-3bf7b3b311ec" />
 
 ## Mes faiblesses
-<img width="1964" height="236" alt="image" src="https://github.com/user-attachments/assets/0454ad9e-c15b-4c90-a543-b523473e4b98" />
+<img width="1964" height="236" alt="image" src="https://github.com/user-attachments/assets/e5afd748-ecec-44d8-94ca-a4f1b0932283" />
 
 ## Mon domaine multimédia préféré
 <img width="1096" height="171" alt="image" src="https://github.com/user-attachments/assets/5b171caf-0e55-4b35-b92c-c6e87a764042" />
